@@ -1,0 +1,38 @@
+.trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+  color: #fff;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 0px 30px -22px -23px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.layout {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.profile {
+  color: #fff;
+  float: right;
+}
+.avatar {
+  color: #f56a00;
+  background-color: #fde3cf;
+  margin-left: 5px;
+}
